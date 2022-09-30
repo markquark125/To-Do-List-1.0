@@ -21,7 +21,7 @@ export default function App() {
       {/* Write a task */}
       <KeyboardAvoidingView   
         behavior={Platform.OS == "ios" ? "padding" : "height" } // if ios: gets padding, else height
-        syle={styles.writeTaskWrapper}
+        style={styles.writeTaskWrapper}
       >
         <TextInput syle={styles.input} placeholder={'Write a task'} />
 
