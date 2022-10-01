@@ -1,6 +1,7 @@
 # To-Do App Tutorial
 
 Following along with Made with Matt, I am creating a to-do app. Will update as progress.
+First mobile app. woo!
 
 ## LINK:
 
