@@ -3,7 +3,7 @@
 Following along with Made with Matt, I am creating a to-do app. Will update as progress.
 First mobile app. woo!
 
-(Test code. Ignore)
+(New code. Testing)
 
 ## LINK:
 
